@@ -1,0 +1,4 @@
+while IFS='|' read k q; do
+  timeout 150 yt-dlp --flat-playlist --js-runtimes node --extractor-args "youtube:player_client=mweb,web_embedded" --print "$k|%(channel)s|%(channel_id)s|%(view_count)s|%(duration)s" "ytsearch60:$q" 2>/dev/null
+done < q2.txt
+echo DONE

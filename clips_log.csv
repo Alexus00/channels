@@ -1,0 +1,42 @@
+date,platform,account,campaign,file,hook_type,length_s,views_72h,stayed_pct,avg_viewed_pct,status,notes
+2026-11-01,youtube,campaign_new,JasonTheWeen,jason_most_viral_ranked,countdown,46.4,203,48.4,,posted,flop: no captions first 7s
+2026-11-02,youtube,campaign_new,JasonTheWeen,jason_sasuke_from_ohio,cold_open_quote,16.7,,,,posted?,
+,,,JasonTheWeen,jason_nms_boxing_chaos,countdown,41,,,,made,
+,,,JasonTheWeen,jason_fire_jutsu,single_moment,11.8,,,,made,
+,,,JasonTheWeen,jason_japan_sasuke,cold_open_quote,23.1,,,,made,
+,,,JasonTheWeen,jason_almost_isekaid,cold_open_quote,19.9,,,,made,
+,,,JasonTheWeen,jason_nms_knee_to_face,cold_open_quote,23.3,,,,made,
+,,,JasonTheWeen,jason_lettuce_debate,cold_open_quote,26.0,,,,made,
+,,,JasonTheWeen,jason_new_cameraman,single_moment,6.8,,,,made,
+,,,JasonTheWeen,jason_shake_shack,cold_open_quote,20.1,,,,made,
+,,,DaneshDiamonds,danesh_nun_grillz,visual_payoff,33.3,,,,made,campaign abandoned
+,,,DaneshDiamonds,danesh_kai_cenat_mold,cold_open_quote,17.5,,,,made,campaign abandoned
+,,,DaneshDiamonds,danesh_duke_new_grillz,visual_payoff_loop,8.3,,,,made,campaign abandoned
+,,,Gattouz0,gattouz_pet_monkeys,question_quote,26.3,,,,made,
+,,,Gattouz0,gattouz_lookalike_son,quote,31.1,,,,made,
+,,,Gattouz0,gattouz_fans_cant_believe,quote_compilation,33.6,,,,made,
+,,,Gattouz0,gattouz_can_i_be_like_you,quote,24.8,,,,made,
+,,StreamRewind,owned,sr_speed_250k_prank,cold_open_quote+narration,35.6,,,,made,pilot
+,,StreamRewind,owned,sr_lacy_500k_yen_bill,cold_open_quote+narration,22.3,,,,made,pilot
+,,StreamRewind,owned,sr_jake_drink_thrown,cold_open_quote+narration,17.7,,,,made,pilot
+,,ContextLoading,owned,sr_maya_wolfdog_roxy,cold_open_quote+narration,39.9,,,,made,
+,,ContextLoading,owned,sr_elly_face_card,cold_open_quote+narration,27.8,,,,made,
+,,ContextLoading,owned,sr_quin_standing_jump,visual_payoff+narration,20.8,,,,made,
+,,ContextLoading,owned,sr_erobb_burp,cold_open_quote+narration,20.3,,,,made,
+2026-11-03,YouTube,ContextLoading,owned,sr_emily_cops_scream,cold_open_quote+narration,31.3,1338@10h,69.5,,posted,big-name fresh; 892 engaged; spike hrs 1-3 then flat
+,,ContextLoading,owned,sr_caseoh_freestyle,cold_open_quote+narration+camstack,28.8,,,,made,big-name fresh
+,,ContextLoading,owned,sr_kai_tyla_friendzone,cold_open_question+narration,34.0,,,,made,mega-name celebrity
+,,LaneNineLab,owned,ln9_champions_vs_lane9,pick-a-lane+mystery reveal,24.9,,,,made,cheetah reveal
+,,LaneNineLab,owned,ln9_world_records_vs_lane9,pick-a-lane+mystery reveal,25.4,,,,made,bolt 9.58 reveal
+2026-11-04,YouTube,ContextLoading,owned,kai_madden_rage,signature loading-bar v1 (freeze+beats),36.9,,,,made,Kai PC/Madden rage twitch ViscousCarefulGrasshopperWOOP; TTS placeholder
+,TikTok/YT/IG,WhyNotTop-3,Gattouz0,gattouz_talks_like_ronaldo,quote,18.1,,,,made,VOD 135449958 23:20 (Nov 1)
+,TikTok/YT/IG,WhyNotTop-3,Gattouz0,gattouz_first_date_pay,question/debate,32.7,,,,made,VOD 135449958 37:00
+,TikTok/YT/IG,WhyNotTop-3,Gattouz0,gattouz_100m_court,curiosity quote,40.4,,,,made,VOD 135449958 33:00
+,Instagram,(new IG),MarkLovesCasinos,mlc_jordan_double,result-first + table graphic,41.1,,,,made,vegas_928 2:27-2:30 blackjack $1k double (gambling: IG only)
+,Instagram,one_scroll_man?,MarkLovesCasinos,mlc_bonus_in_bonus,visual payoff hook (coin board),36.8,,,,made,vegas_928 0:38-0:42 Dragon Link bonus $1,775 (IG only)
+,YouTube,WhyNotTop-3,MarkLovesCasinos,mlc_fan_inspired,quote hook (wholesome),33.4,,,,made,vegas_928 2:52-2:57 fan Luca meets Mark (IRL, no gambling shown)
+,Instagram,one_scroll_man,MarkLovesCasinos,mlc_craps_hit_and_run,dice hook + hit&run story,44.1,,,,made,vegas_928 2:41-2:44 bubble craps (IG only)
+,Instagram,one_scroll_man,MarkLovesCasinos,mlc_black_or_red,suspense question + chat vote graphic,40.3,,,,made,vegas_928 1:54-1:56 gamble feature (IG only)
+,YouTube,WhyNotTop-3,MarkLovesCasinos,mlc_37_points,goal/score graphic challenge,40.8,,,,made,fremont 22:00-23:30 arcade basketball (IRL no gambling)
+,Instagram,one_scroll_man,MarkLovesCasinos,mlc_top_dollar,take-it-or-try-again + offer tracker (research-based),36.8,,,,made,vegas_928 1:43-1:48 Top Dollar (IG only)
+,YouTube,WhyNotTop-3,MarkLovesCasinos,mlc_joker_origin,costume + iconic quote hook (wholesome twist),46.5,,,,made,kick VOD 135166268 Crazy Joker 13:30-14:40 + 2:50 close-up (IRL)

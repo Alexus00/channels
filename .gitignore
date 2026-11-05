@@ -1,0 +1,12 @@
+src/
+wav/
+work/
+out/
+raw/
+vod/
+__pycache__/
+*.mp4
+*.pcm
+*.ts
+*.wav
+*.onnx

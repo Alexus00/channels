@@ -1,0 +1,43 @@
+sports_story|UCWJ2lWNubArHWmf3FIHbfcQ|NBA
+sports_story|UCqQo7ewe87aYAe7ub5UqXMw|House of Highlights
+soccer_story|UCDAenfgg_Z97DXssgj3wgOA|CheezyEditz06
+soccer_story|UCDVYQ4Zhbm3S2dlz7P1GBDg|NFL
+soccer_story|UC-SJ6nODDmufqBzPBwCvYvQ|CBS Mornings
+soccer_story|UCAeWdyKJXGWmVAXFpgLNNTg|CBS Evening News
+soccer_story|UCLXo7UDZvByw2ixzpQCufnA|Vox
+soccer_story|UC8p1vwvWtl6T73JiExfWs1g|CBS News
+youtuber_facts|UCpko_-a4wgz2u_DgDgd9fqA|BuzzFeedVideo
+youtuber_facts|UCXVCgDuD_QCkI7gTKU7-tpg|Nat Geo Kids
+youtuber_facts|UCJQ09KMPrVc5kZzRlNrhsxA|Tutoring Hour
+celebrity_story|UCaHFsA1rlaxXLKCpZdLSERg|NETFLIX PROBLEMS
+celebrity_story|UCa86bXaaAopKNqC9pfLqdkw|TOP DATA STUFF
+celebrity_story|UCa6vGFO9ty8v5KZJXQxdhaw|Jimmy Kimmel Live
+celebrity_story|UCGE7WjDQBpG6bFA153iRVVw|Hole
+celebrity_story|UC8TDw896qBRcVcB41DqR6tA|Entertainment Reports
+celebrity_story|UCgPClNr5VSYC3syrDUIlzLw|Adult Swim
+podcast_clips|UCcxpo1SAgG2bJmtqkUfks2w|Brandon From ILETD
+podcast_clips|UCYHf6eFhOH61PS8NCon5ieA|Money Mind Unfiltered
+podcast_clips|UCjDsbbzHgTrGc4Ff26TJtsA|E! News
+podcast_clips|UCshPyRiu9XTQb2gEagNt-3A|Raj Shamani Clips
+interview_clips|UCXRwNZpU67AK24r5QGfIfCw|Benedict Polizzi 
+money_story|UCxC5Ls6DwqV0e-CYcAKkExQ|Real Data
+movie_facts|UC_IRYSp4auq7hKLvziWVH6w|Pixar
+movie_facts|UCrSvhrtUgpZT3EU0x1Zoy-w|CGMeetup
+movie_facts|UCTWiOA2IQyW_QaGv4t2UaCQ|ACMofficial
+movie_facts|UCuuF8oFfQTaK6KHMQZW5YLQ|Vivid Studios
+movie_facts|UCoWhmR8mi9FZslWvd0EEiOw|SPIRIT HUNTERS
+movie_facts|UCarojmdw1OV_nD5PDis4fpA|Alexanderthetitan
+nfl_story|UCm_SwZKaEcXkut7gtJ9f-ZA|𝐓𝐈𝐋𝐓𝐙
+nfl_story|UCL8ZrAyUG0paefXx9Pw_EXQ|Dude Best
+nfl_story|UCvQo4vCBfOpa3rahmqtvoLw|Superior Sports
+nfl_story|UCaYuR6kaSh5KrEDwV7BmH1A|Tagsy
+nfl_story|UCebB1gqj8VuxPUvNC3gq23A|AI secrets minds 
+nfl_story|UCY8d00rLVaTCTusriZJ352w|Hall of Almost
+nfl_story|UCoYYFj2SR-jieP6X8TNwYfQ|Yeetz productions
+rapper_story|UCMu5gPmKp5av0QCAajKTMhw|ERB
+rapper_story|UCjtcsbBSogpYEhS6AWDoVPg|Cage Culture
+rapper_story|UClHbjVXWB1rCNfB-MQDw-Nw|Korean Comic
+rapper_story|UCjpzEgbbDUg4YC6vpSrzsyg|WKMG News 6 ClickOrlando
+rapper_story|UCqFzWxSCi39LnW1JKFR3efg|Saturday Night Live
+rapper_story|UCz67TNWBqU38S8VRvjDO2wg|Khooni Monday
+rapper_story|UCMKv9a5OeqElzuWy1WOR0kA|City Girls

@@ -1,0 +1,58 @@
+Data Ball|319000
+Data Ball|161000
+Data Ball|211000
+Data Ball|156000
+Data Ball|119000
+Data Ball|143000
+Data Ball|72000
+Data Ball|255000
+Data Ball|72000
+Data Ball|97000
+Data Ball|172000
+Data Ball|173000
+Data Ball|148000
+Data Ball|106000
+Data Ball|123000
+Data Ball|90000
+Data Ball|99000
+Data Ball|SUBS|353000
+Global Data|3500
+Global Data|17000
+Global Data|59000
+Global Data|125000
+Global Data|204000
+Global Data|93000
+Global Data|107000
+Global Data|89000
+Global Data|SUBS|798000
+MotionAthlete|2300
+MotionAthlete|19000
+MotionAthlete|17000
+MotionAthlete|9800
+MotionAthlete|5600
+MotionAthlete|7100
+MotionAthlete|3700
+MotionAthlete|6600
+MotionAthlete|3800
+MotionAthlete|20000
+MotionAthlete|10000
+MotionAthlete|22000
+MotionAthlete|29000
+MotionAthlete|41000
+MotionAthlete|54000
+MotionAthlete|74000
+MotionAthlete|47000
+MotionAthlete|37000
+MotionAthlete|50000
+MotionAthlete|27000
+MotionAthlete|116000
+MotionAthlete|78000
+MotionAthlete|96000
+MotionAthlete|99000
+MotionAthlete|54000
+MotionAthlete|37000
+MotionAthlete|62000
+MotionAthlete|37000
+MotionAthlete|47000
+MotionAthlete|14000
+MotionAthlete|SUBS|190000
